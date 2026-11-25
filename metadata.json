@@ -1,0 +1,6 @@
+{
+  "name": "GlassChess Tactician",
+  "description": "Chess.com and Lichess strategy analyzer with Google Drive PGN archival, opening blunder heatmaps, tactical pattern detection, trend analytics, real-time AI coaching, and offline Elo bot practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
